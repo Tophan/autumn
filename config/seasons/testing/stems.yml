@@ -1,0 +1,10 @@
+--- 
+Example: 
+  nick: MyIRCBot
+  leaves: 
+  - Administrator
+  - Scorekeeper
+  - Insulter
+  rejoin: true
+  channel: "#yourchannel"
+  server: irc.yourircserver.com

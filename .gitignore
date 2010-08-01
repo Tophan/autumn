@@ -1,0 +1,7 @@
+log/*
+tmp/*
+doc/*
+.idea
+.rvmrc
+.DS_Store
+.bundle
